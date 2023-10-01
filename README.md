@@ -3,7 +3,7 @@
 ## 🤠 About Me
 - 🌱 I’m currently reading PHD in Beijing University of Posts and Telecommunications
 - 🚀 My research interest is `Time Series forecasting` and `Cloud-Edge System`
-- 📫 How to reach me: Please contact me with my email `liangaobo@bupt.edu.cn`. I also have an account in [Zhihu](https://www.zhihu.com/people/mr-ohahah), where I have write some articles about my understanding of some academic papers
+- 📫 How to reach me: Please contact me with my email `liangaobo@bupt.edu.cn`. I also have an account in [Zhihu](https://www.zhihu.com/people/mr-ohahah), where I have writen some articles about my understanding of some academic papers
 - 😄 Pronouns: he
 - ⚡ Fun fact: Used to dress up at the student union party
 
