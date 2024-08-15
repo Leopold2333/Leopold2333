@@ -1,9 +1,9 @@
 # Hi there 👋 I'm Aobo
 
 ## 🤠 About Me
-- 🌱 I’m currently reading PHD in Beijing University of Posts and Telecommunications
+- 🌱 I’m currently working for PHD in Beijing University of Posts and Telecommunications
 - 🚀 My research interest is `Time Series forecasting`, `AIOps`, and `Cloud-Edge System`
-- 📫 How to reach me: Please contact me with my email `liangaobo@bupt.edu.cn`. I also have an account in [Zhihu](https://www.zhihu.com/people/mr-ohahah), where I have writen some articles about my understanding of some academic papers
+- 📫 How to reach me: Please contact me with my email `liangaobo@bupt.edu.cn`. I also have an account in [Zhihu](https://www.zhihu.com/people/mr-ohahah), where I have written some articles about my understanding of some academic papers
 - 😄 Pronouns: he
 - ⚡ Fun fact: I once played the role of Snow White at the student union party
 
