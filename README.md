@@ -9,6 +9,6 @@
 
 ## ⚡ Github Stats
 
-[![Leopold2333's GitHub stats](https://github-readme-stats-xi-gilt.vercel.app/api?username=Leopold2333&hide=issues&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+[![Leopold2333's GitHub stats](https://mydashboard-one-blush.vercel.app/api?username=Leopold2333&hide=issues&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats-xi-gilt.vercel.app/api/top-langs/?username=Leopold2333&layout=compact&hide=javascript,html,css)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://mydashboard-one-blush.vercel.app/api/top-langs/?username=Leopold2333&layout=compact&hide=javascript,html,css)](https://github.com/anuraghazra/github-readme-stats)
